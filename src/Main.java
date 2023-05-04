@@ -58,7 +58,7 @@ public class Main {
         float meanWeightLoss = excessWeight / ((weightLoss1 + weightLoss2) / 2);
         System.out.println("Если спортсмен будет терять 250г в день, весогонка составит " + excessWeight / weightLoss1 + " дней.");
         System.out.println("Если спортсмен будет терять 500г в день, весогонка составит " + excessWeight / weightLoss2 + " дней.");
-        System.out.println("В среднем весогонка составит " + meanWeightLoss + " дней");
+        System.out.println("В среднем весогонка составит " + meanWeightLoss + " дней.");
 
 
         int mashaSalary = 67760;
